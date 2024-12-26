@@ -1,4 +1,7 @@
 return {
+    {"NorthernExpedition", true},
+    {"1BVisits", true},
+    {"FISCHMASDAY", true},
     {"MERRYFISCHMAS", true},
     {"RFG", true},
     {"NorthernExpedition", true},
